@@ -1,0 +1,21 @@
+{
+    "name": "Unity.ML-Agents.Extensions.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Unity.ML-Agents.Extensions",
+        "Unity.ML-Agents",
+        "Unity.ML-Agents.Editor",
+        "UdonSharp.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

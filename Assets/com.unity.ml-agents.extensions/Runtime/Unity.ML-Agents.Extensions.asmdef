@@ -1,0 +1,19 @@
+{
+    "name": "Unity.ML-Agents.Extensions",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Sentis",
+        "Unity.ML-Agents",
+        "Unity.ML-Agents.Extensions.Input",
+        "UdonSharp.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
